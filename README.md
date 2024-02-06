@@ -18,22 +18,7 @@
 
 ## <a name='GeneralInformation'></a>General Information
 
-This repository contains the materials for the Group Assignment of Programming Fundamentals with Python.
-
-### <a name='Deadline'></a>Deadline
-
-The exercise must be submited **before** `11/20/2022 23:00 +0100`.  Only code pushed to the Github repository created by Github classroom will be evaluated.
-
-### <a name='Rubric'></a>Rubric
-
-| Section    | Max points |
-|------------|------------|
-| Exercise 1 | 2 points   |
-| Exercise 2 | 2 points   |
-| Exercise 3 | 2 points   |
-| Exercise 4 | 2 points   |
-| All members of the group participated[^1] | 1 points   |
-| Code quality | 1 points   |
+This repository contains the Assignment of Programming Fundamentals with Python on Madrid Metro Stations.
 
 
 ## <a name='Problem'></a>Problem
